@@ -1,0 +1,192 @@
+/*.blackBar{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:60px;
+    background-color:rgb(199, 78, 78);
+ } */
+.main{
+    border-style: inset ;
+}
+
+
+
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    margin:auto;
+    background-color:rgb(22, 7, 32);
+height:4em;
+
+
+}
+.navigation a:hover{
+    background-color: rgb(14, 55, 236);
+height:fit-content;}
+
+
+
+.navigation a {
+    color: rgb(23, 34, 34);
+    padding: 0.5em 2em;
+    text-decoration-line:none;
+    block-size: 14em;
+    padding-top:18px;
+    color: white;
+    font-size:20px;
+    cursor: pointer;
+}
+
+.dorathy{
+    color:rgb(41, 69, 231);
+    font-family:cursive;
+    font-size: 1em;
+}
+.freelance{
+    font-size: 25px;
+    margin-left: 25px;
+    padding-top: 7em;
+}
+.text{
+    font-size: 3em;
+    margin-left: 3em;
+    margin-top: 30px;
+}
+.image{
+    width: 26em;
+    height: 28em;
+    border-radius: 42%;
+    /* margin-right: 25em; */
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    
+    border:none;
+    color:white;
+ 
+  }
+    
+  .tableA {display: inline-block;
+    padding: 15px;
+    margin-right: 6em;
+    
+}
+
+    .tableB{padding:15px;
+        padding-right: 13px;
+        display: inline-block;
+      }
+
+th,td{
+    padding:5px;
+}
+
+
+.body{
+    text-align:center;
+    padding-top:5em;
+    font-size: 27px;
+    background-color:rgb(73, 62, 51);
+    text-indent: 3em;
+
+}
+.word{
+    color:rgb(238, 148, 148)
+}
+.about{
+    font-family:serif;
+    color:white;
+    background-color:rgb(8, 8, 8)
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.border{
+    border:10px outset rgb(61, 61, 60);
+    
+}
+
+.skill{
+    margin-left:0.5em;
+    padding-top:1em;
+    justify-content: space-around;
+  color: rgb(248, 245, 245);
+
+font-size: 2.6em;
+}
+.b{
+    background-image:url(skillimg.jpg) ;
+    background-color: rgb(19, 16, 13);
+ background-repeat: no-repeat;
+background-size: cover;
+opacity:2;
+
+  }
+.s{
+    text-align: center;
+    font-size: 3em;
+    color:rgb(216, 4, 4);
+    text-decoration:overline underline rgb(245, 248, 250);
+}
+.c{
+    
+
+    background-color: rgb(73, 62, 51);
+
+}
+.contact{
+    color: white ;
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height:2em;
+   background-color:rgb(10, 10, 10);
+   color: white;
+   text-align: center;
+   justify-content:space-around;
+   padding-top: 1em;
+   text-indent:3em;
+    
+}
+.contactme{
+    text-align: center;
+    font-size:2em;
+}
+.contactmeword{
+    color: red;
+    text-decoration: overline underline;
+    text-decoration-color: white;
+}
+
+.worksbody{padding-top: 1.5em;
+    background-color: rgb(73, 62, 51);
+}
+.worksfont{color: white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 1.5em;
+margin-left: 7px;
+}
+
+.seework{color: rgb(245, 16, 16);
+
+}
+.myworks{ color: rgb(233, 16, 16);
+    font-size: 2.5em;
+    font-weight: 1em;
+    text-decoration: overline underline ;
+    text-decoration-color: white;
+    text-align: center;
+
+}
+
+.clickme{
+    background-color: black;
+    color:white;
+    font-size: 23px;
+}
